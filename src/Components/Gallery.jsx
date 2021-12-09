@@ -5,7 +5,7 @@ export default function Gallery() {
         <>
              <div class="flex-container">
         <div class="card-container">
-            <div class="img-container"><img src="/images/cafe.png" alt=""/></div>
+            <div class="img-container"><img src={require("..//images/cafe.png").default} alt=""/></div>
             <div class="description">
                 <p>
                     Ravi and Ravi joined SKS at Royal Café, Lucknow for a small treat. First in person meeting with Ravi
@@ -14,7 +14,7 @@ export default function Gallery() {
         </div>
 
         <div class="card-container">
-            <div class="img-container"><img src="/images/office.webp" alt=""/></div>
+            <div class="img-container"><img src={require("..//images/office.webp").default} alt=""/></div>
             <div class="description">
                 <p>
 
@@ -24,7 +24,7 @@ export default function Gallery() {
         </div>
 
         <div class="card-container">
-            <div class="img-container"><img src="/images/sagarparty.webp" alt=""/></div>
+            <div class="img-container"><img src={require("..//images/sagarparty.webp").default} alt=""/></div>
             <div class="description">
                 <p>
 
@@ -34,7 +34,7 @@ export default function Gallery() {
 
 
         <div class="card-container">
-            <div class="img-container"><img src="/images/onlinemeet2.png" alt=""/></div>
+            <div class="img-container"><img src={require("..//images/onlinemeet2.png").default} alt=""/></div>
             <div class="description">
                 <p>
 
@@ -43,7 +43,7 @@ export default function Gallery() {
         </div>
 
         <div class="card-container">
-            <div class="img-container"><img src="/images/teacherday.png" alt=""/></div>
+            <div class="img-container"><img src={require("..//images/teacherday.png").default} alt=""/></div>
             <div class="description">
                 <p>
                     Teachers' Day, 2021. Students arranged a surprise party in my office!! </p>

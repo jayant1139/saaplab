@@ -37,7 +37,7 @@ export default function Contact() {
      {/* mail image   */}
         
           <div className="mail-img">
-            <div className="img-items"><img src="/images/mail.png" alt="" /></div>
+            <div className="img-items"><img src={require("../images/mail.png").default} alt="" /></div>
             <div className="mail-me">
               <a href="mailto:jayantsingh331@gmail.com"
                 >Click here to Write a Mail</a

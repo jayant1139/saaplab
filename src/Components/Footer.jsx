@@ -10,11 +10,11 @@ export default function Footer() {
           </div>
           <div className="flex-footer-items">
             <div className="funders-container">
-              <img src="/images/iitrlogopng.png" alt={""} />
-              <img src="/images/inspire.png" alt={""} />
-              <img src="/images/nserb.png" alt={""} />
-              <img src="/images/stars.png" alt={""} />
-              <img src="/images/Dst.png" alt={""} />
+              <img src={require("../images/iitrlogopng.png").default} alt={""} />
+              <img src={require("../images/inspire.png").default} alt={""} />
+              <img src={require("../images/nserb.png").default} alt={""} />
+              <img src={require("../images/stars.png").default} alt={""} />
+              <img src={require("../images/Dst.png").default} alt={""} />
             </div>
           </div>
           <div className="flex-footer-items">

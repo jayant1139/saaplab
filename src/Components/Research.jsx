@@ -32,22 +32,22 @@ export default function Research() {
 </div>
 <div className="carousel-inner research-carousel">
 <div className="research-carousel-item carousel-item active">
-<img src="/images/Serf/3.webp" className="d-block w-100" alt="..."/>
+<img src={require("..//images/Serf/3.webp").default} className="d-block w-100" alt="..."/>
 </div>
 <div className="research-carousel-item carousel-item">
-<img src="/images/Serf/7f7198_006cdb51affc4c97bb05e4dd6611712c_mv2.webp" className="d-block w-100" alt="..."/>
+<img src={require("..//images/Serf/7f7198_006cdb51affc4c97bb05e4dd6611712c_mv2.webp").default} className="d-block w-100" alt="..."/>
 </div>
 <div className="research-carousel-item carousel-item">
-<img src="/images/Serf/7f7198_2862033db3d44d648ac783fe1041a1be_mv2.webp" className="d-block w-100" alt="..."/>
+<img src={require("..//images/Serf/7f7198_2862033db3d44d648ac783fe1041a1be_mv2.webp").default} className="d-block w-100" alt="..."/>
 </div>
 <div className="research-carousel-item carousel-item">
-<img src="/images/Serf/7f7198_791fdb26059e4331ae7007593b35fba9.webp" className="d-block w-100" alt="..."/>
+<img src={require("..//images/Serf/7f7198_791fdb26059e4331ae7007593b35fba9.webp").default} className="d-block w-100" alt="..."/>
 </div>
 <div className="research-carousel-item carousel-item">
-<img src="/images/Serf/abc.png" className="d-block w-100" alt="..."/>
+<img src={require("..//images/Serf/abc.png").default} className="d-block w-100" alt="..."/>
 </div>
 <div className="research-carousel-item carousel-item">
-<img src="/images/Serf/signalout.webp" className="d-block w-100" alt="..."/>
+<img src={require("..//images/Serf/signalout.webp").default} className="d-block w-100" alt="..."/>
 </div>
 </div>
 <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators-serf" data-bs-slide="prev">
@@ -81,26 +81,26 @@ export default function Research() {
 </div>
 <div className="carousel-inner research-carousel">
   <div className="research-carousel-item carousel-item active">
-    <img src="/images/Eot/substrate-medium.webp" className="d-block w-100" alt="..."/>
+    <img src={require("..//images/Eot/substrate-medium.webp").default} className="d-block w-100" alt="..."/>
   </div>
   <div className="research-carousel-item carousel-item">
-    <img src="/images/Eot/7f7198_5d39b899f0424d0abf893b6de1a61404_mv2.webp" className="d-block w-100" alt="..."/>
+    <img src={require("..//images/Eot/7f7198_5d39b899f0424d0abf893b6de1a61404_mv2.webp").default} className="d-block w-100" alt="..."/>
   </div>
   <div className="research-carousel-item carousel-item">
-    <img src="/images/Eot/blue1.webp" className="d-block w-100" alt="..."/>
+    <img src={require("..//images/Eot/blue1.webp").default} className="d-block w-100" alt="..."/>
   </div>
   <div className="research-carousel-item carousel-item">
-    <img src="/images/Eot/blue2.webp" className="d-block w-100" alt="..."/>
+    <img src={require("..//images/Eot/blue2.webp").default} className="d-block w-100" alt="..."/>
   </div>
   <div className="research-carousel-item carousel-item">
-    <img src="/images/Eot/blue3.webp" className="d-block w-100" alt="..."/>
+    <img src={require("..//images/Eot/blue3.webp").default} className="d-block w-100" alt="..."/>
   </div>
   <div className="research-carousel-item carousel-item">
-    <img src="/images/Eot/second-last.webp" className="d-block w-100" alt="..."/>
+    <img src={require("..//images/Eot/second-last.webp").default} className="d-block w-100" alt="..."/>
   </div>
   
   <div className="research-carousel-item carousel-item">
-    <img src="/images/Eot/last.webp" className="d-block w-100" alt="..."/>
+    <img src={require("..//images/Eot/last.webp").default} className="d-block w-100" alt="..."/>
   </div>
 </div>
 <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators-Eot" data-bs-slide="prev">
@@ -138,42 +138,42 @@ export default function Research() {
 </div>
 <div className="carousel-inner research-carousel">
   <div className="research-carousel-item carousel-item active">
-    <img src="/images/Spr/p-1(prism).webp" className="d-block w-100" alt="..."/>
+    <img src={require("..//images/Spr/p-1(prism).webp").default} className="d-block w-100" alt="..."/>
   </div>
   <div className="research-carousel-item carousel-item">
-    <img src="/images/Spr/p-second.webp" className="d-block w-100" alt="..."/>
+    <img src={require("..//images/Spr/p-second.webp").default} className="d-block w-100" alt="..."/>
   </div>
   <div className="research-carousel-item carousel-item">
-    <img src="/images/Spr/p-third.webp" className="d-block w-100" alt="..."/>
+    <img src={require("..//images/Spr/p-third.webp").default} className="d-block w-100" alt="..."/>
   </div>
   <div className="research-carousel-item carousel-item">
-    <img src="/images/Spr/p-four.webp" className="d-block w-100" alt="..."/>
+    <img src={require("..//images/Spr/p-four.webp").default} className="d-block w-100" alt="..."/>
   </div>
   <div className="research-carousel-item carousel-item">
-    <img src="/images/Spr/p-five.webp" className="d-block w-100" alt="..."/>
+    <img src={require("..//images/Spr/p-five.webp").default} className="d-block w-100" alt="..."/>
   </div>
   <div className="research-carousel-item carousel-item">
-    <img src="/images/Spr/p-six.webp" className="d-block w-100" alt="..."/>
-  </div>
-  
-  <div className="research-carousel-item carousel-item">
-    <img src="/images/Spr/p-seven.webp" className="d-block w-100" alt="..."/>
+    <img src={require("..//images/Spr/p-six.webp").default} className="d-block w-100" alt="..."/>
   </div>
   
   <div className="research-carousel-item carousel-item">
-    <img src="/images/Spr/p-eight.webp" className="d-block w-100" alt="..."/>
+    <img src={require("..//images/Spr/p-seven.webp").default} className="d-block w-100" alt="..."/>
   </div>
   
   <div className="research-carousel-item carousel-item">
-    <img src="/images/Spr/p-nine.webp" className="d-block w-100" alt="..."/>
+    <img src={require("..//images/Spr/p-eight.webp").default} className="d-block w-100" alt="..."/>
   </div>
   
   <div className="research-carousel-item carousel-item">
-    <img src="/images/Spr/p-ten.webp" className="d-block w-100" alt="..."/>
+    <img src={require("..//images/Spr/p-nine.webp").default} className="d-block w-100" alt="..."/>
   </div>
   
   <div className="research-carousel-item carousel-item">
-    <img src="/images/Spr/p-eleven.webp" className="d-block w-100" alt="..."/>
+    <img src={require("..//images/Spr/p-ten.webp").default} className="d-block w-100" alt="..."/>
+  </div>
+  
+  <div className="research-carousel-item carousel-item">
+    <img src={require("..//images/Spr/p-eleven.webp").default} className="d-block w-100" alt="..."/>
   </div>
 </div>
 <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators-Spr" data-bs-slide="prev">

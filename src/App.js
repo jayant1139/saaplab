@@ -14,14 +14,14 @@ function App() {
    <>
    <Navbar/>
    <Switch>
-   <Route exact path="/saaplab" component={Home}/>
+   <Route exact path="/" component={Home}/>
      <Route exact path="/Research" component={Research}/>
      <Route exact path="/Publications" component={Publications}/>
      <Route exact path="/Team" component={Team}/>
      <Route exact path="/Gallery" component={Gallery}/>
      <Route exact path="/Contact" component={Contact}/>
      
-     <Redirect to="/saaplab"/>
+     <Redirect to="/"/>
      
    </Switch>
    <Footer/>

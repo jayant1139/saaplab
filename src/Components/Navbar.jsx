@@ -10,7 +10,7 @@ export default function Navbar() {
         <div>
              <section className="sec-1">
     <div className="header-item-link">
-      <div className="logo-top"><img src="/images/IITR_logo.jpg" alt=""/></div>
+      <div className="logo-top"><img src={require("../images/IITR_logo.jpg").default} alt=""/></div>
     </div>
     <div className="header-title">
       <div className="header-title-item">
