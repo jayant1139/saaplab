@@ -1,5 +1,5 @@
 import React from 'react'
-
+import { Link } from 'react-router-dom'
 export default function Research() {
     return (
         <>
@@ -196,10 +196,10 @@ export default function Research() {
 </p></div>  
 
 <div className="last-talk-item">
- <a
-href="./contact.html" target="_blank">
+ <Link
+to="/Contact" >
 Let's Talk
-</a></div>
+</Link></div>
 
 
 

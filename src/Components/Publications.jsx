@@ -18,7 +18,7 @@ export default function Publications() {
                     </div>
                 </div>
                 <div className="content-head">
-                    <div className="content-items">
+                    <div className="content-items ">
                         <h5>Journel Paper</h5>
                     </div>
                     <div className="content-items">
