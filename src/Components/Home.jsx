@@ -8,7 +8,7 @@ export default function Home(props) {
           <h1>Group of Sachin Kumar Srivastava</h1>
           <div className="flex-row-container">
             <div className="flex-row-items">
-              <img src="./saaplab/images/grpicon.webp" alt={""} />
+              <img src="/images/grpicon.webp" alt={""} />
             </div>
             <div className="flex-row-items">
               <p>
