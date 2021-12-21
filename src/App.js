@@ -12,6 +12,8 @@ import Footer from './Components/Footer';
 function App() {
   return (
    <>
+   <div className='appwrap-flexbtw'>
+     <div>
    <Navbar/>
    <Switch>
    <Route exact path="/" component={Home}/>
@@ -24,8 +26,9 @@ function App() {
      <Redirect to="/"/>
      
    </Switch>
+   </div>
    <Footer/>
-
+   </div>
 </>
   );
 }

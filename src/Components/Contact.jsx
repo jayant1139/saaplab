@@ -39,7 +39,7 @@ export default function Contact() {
           <div className="mail-img">
             <div className="img-items"><img src={require("../images/mail.png").default} alt="" /></div>
             <div className="mail-me">
-              <a href="mailto:jayantsingh331@gmail.com"
+              <a href="mailto:sachin.srivastava@ph.iitr.ac.in"
                 >Click here to Write a Mail</a
               >
             </div>
