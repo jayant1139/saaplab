@@ -99,9 +99,9 @@ body {
   /* font-weight: 500; */
   /* background-color:#EDEEEE ; */
   /* background: #ED213A;  fallback for old browsers */
-  border: 0.1rem solid -webkit-linear-gradient(to right, #93291e, #ed213a); /* Chrome 10-25, Safari 5.1-6 */
-  border: 0.1rem solid linear-gradient(to right, #93291e, #ed213a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  border-radius: 0.2rem;
+  border: 0.1rem solid -webkit-linear-gradient(to right, #93291e, #ed213a); 
+  border: 0.1rem solid linear-gradient(to right, #93291e, #ed213a); 
+  border-radius: 0.1rem;
   border-bottom: 0.1rem solid #bb0c20;
   transition: all 0.25s ease-out;
 }
@@ -226,7 +226,6 @@ body {
   /* border: 1px solid blue; */
   display: flex;
   flex-direction: column;
-  /* justify-content: center; */
   align-items: center;
   margin: auto;
   margin-top: 1.0rem;
