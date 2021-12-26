@@ -294,7 +294,7 @@ a{
   margin: auto;
 }
 .container-information {
-  border: 1px solid green;
+  /* border: 1px solid green; */
   margin: 1.5rem;
 
   width: 45%;
