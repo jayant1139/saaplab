@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/saaplab/static/css/main.76eed383.chunk.css",
-    "main.js": "/saaplab/static/js/main.1d593437.chunk.js",
-    "main.js.map": "/saaplab/static/js/main.1d593437.chunk.js.map",
+    "main.css": "/saaplab/static/css/main.c2038f59.chunk.css",
+    "main.js": "/saaplab/static/js/main.bdf18d0e.chunk.js",
+    "main.js.map": "/saaplab/static/js/main.bdf18d0e.chunk.js.map",
     "runtime-main.js": "/saaplab/static/js/runtime-main.e4b83e91.js",
     "runtime-main.js.map": "/saaplab/static/js/runtime-main.e4b83e91.js.map",
     "static/js/2.c69213f0.chunk.js": "/saaplab/static/js/2.c69213f0.chunk.js",
     "static/js/2.c69213f0.chunk.js.map": "/saaplab/static/js/2.c69213f0.chunk.js.map",
     "index.html": "/saaplab/index.html",
-    "static/css/main.76eed383.chunk.css.map": "/saaplab/static/css/main.76eed383.chunk.css.map",
+    "static/css/main.c2038f59.chunk.css.map": "/saaplab/static/css/main.c2038f59.chunk.css.map",
     "static/js/2.c69213f0.chunk.js.LICENSE.txt": "/saaplab/static/js/2.c69213f0.chunk.js.LICENSE.txt",
     "static/media/3.webp": "/saaplab/static/media/3.3c756717.webp",
     "static/media/7f7198_006cdb51affc4c97bb05e4dd6611712c_mv2.webp": "/saaplab/static/media/7f7198_006cdb51affc4c97bb05e4dd6611712c_mv2.a6031e84.webp",
@@ -18,12 +18,16 @@
     "static/media/Dst.png": "/saaplab/static/media/Dst.533ea3e6.png",
     "static/media/IITR_logo.jpg": "/saaplab/static/media/IITR_logo.6bfc4a39.jpg",
     "static/media/abc.png": "/saaplab/static/media/abc.fa0476fb.png",
+    "static/media/appmember.webp": "/saaplab/static/media/appmember.18461eb6.webp",
     "static/media/blue1.webp": "/saaplab/static/media/blue1.6e59685c.webp",
     "static/media/blue2.webp": "/saaplab/static/media/blue2.5c94b984.webp",
     "static/media/blue3.webp": "/saaplab/static/media/blue3.3e8cd12c.webp",
     "static/media/cafe.png": "/saaplab/static/media/cafe.f8836406.png",
+    "static/media/gallery07.webp": "/saaplab/static/media/gallery07.b3ffb4ea.webp",
     "static/media/grpicon.webp": "/saaplab/static/media/grpicon.c56db790.webp",
     "static/media/iitrlogopng.png": "/saaplab/static/media/iitrlogopng.3c12a38f.png",
+    "static/media/kgp.webp": "/saaplab/static/media/kgp.bc3f26e6.webp",
+    "static/media/kumar.webp": "/saaplab/static/media/kumar.3f5faf53.webp",
     "static/media/last.webp": "/saaplab/static/media/last.e9d85f44.webp",
     "static/media/mail.png": "/saaplab/static/media/mail.3d7840f7.png",
     "static/media/nserb.png": "/saaplab/static/media/nserb.91c1287e.png",
@@ -41,16 +45,21 @@
     "static/media/p-ten.webp": "/saaplab/static/media/p-ten.56f00790.webp",
     "static/media/p-third.webp": "/saaplab/static/media/p-third.dc7eb33f.webp",
     "static/media/sagarparty.webp": "/saaplab/static/media/sagarparty.5ddf0b2f.webp",
+    "static/media/sahoo.webp": "/saaplab/static/media/sahoo.b6771271.webp",
     "static/media/second-last.webp": "/saaplab/static/media/second-last.71370642.webp",
     "static/media/signalout.webp": "/saaplab/static/media/signalout.44db6f49.webp",
     "static/media/stars.png": "/saaplab/static/media/stars.1bb857b8.png",
     "static/media/substrate-medium.webp": "/saaplab/static/media/substrate-medium.e075208c.webp",
-    "static/media/teacherday.png": "/saaplab/static/media/teacherday.25cc2a97.png"
+    "static/media/surprisebday.webp": "/saaplab/static/media/surprisebday.05c662c5.webp",
+    "static/media/surprisebday2.webp": "/saaplab/static/media/surprisebday2.41a242c8.webp",
+    "static/media/teacherday.png": "/saaplab/static/media/teacherday.25cc2a97.png",
+    "static/media/virendra.webp": "/saaplab/static/media/virendra.c9fcb2f3.webp",
+    "static/media/youngestgun.webp": "/saaplab/static/media/youngestgun.e1ded591.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.e4b83e91.js",
     "static/js/2.c69213f0.chunk.js",
-    "static/css/main.76eed383.chunk.css",
-    "static/js/main.1d593437.chunk.js"
+    "static/css/main.c2038f59.chunk.css",
+    "static/js/main.bdf18d0e.chunk.js"
   ]
 }
