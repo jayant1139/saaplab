@@ -15,13 +15,13 @@ export default function Home(props) {
                 We are working on various aspects of nanophotonics and
                 plasmonics and their applications, primarily on sensors. These
                 include, SPR, LSPR, EOT, SERS, SEF, ESPR-LSPR coupling phenomena
-                and many more.<br/>
-                  Highly motivated students with JRF/SRF/postdoc fellowships,
-                  willing to work on any of these topics are encouraged to
-                  contact and discuss their ideas. Projects for M.Sc., M.Tech.
-                  and B.Tech. students in the fields of optics and photonics are
-                  also available.
-                
+                and many more.
+                <br />
+                Highly motivated students with JRF/SRF/postdoc fellowships,
+                willing to work on any of these topics are encouraged to contact
+                and discuss their ideas. Projects for M.Sc., M.Tech. and B.Tech.
+                students in the fields of optics and photonics are also
+                available.
               </p>
 
               {/* <a href="/" onClick="" id="changetext">
@@ -68,33 +68,64 @@ export default function Home(props) {
               data-bs-slide-to="3"
               aria-label="Slide 4"
             ></button>
-             <button
+            <button
               type="button"
               data-bs-target="#carouselExampleDark"
               data-bs-slide-to="4"
               aria-label="Slide 5"
             ></button>
+            <button
+              type="button"
+              data-bs-target="#carouselExampleDark"
+              data-bs-slide-to="5"
+              aria-label="Slide 6"
+            ></button>
           </div>
           <div className="carousel-inner">
             <div className="carousel-item active">
-            <div className="d-block w-60 m-auto">
-              <ul>
-              <li></li>
-                <li></li>
-                <li>
-                  03 Nov. 2021: APP-Lab bags grant from DST-BDTD to work on
-                  REVAMPERS project.
-                </li>
-               
-                <li>
-                  01 October 2021: Ojasvi Singh joins as a JRF in INdo-South
-                  Korea JNC project. Welcome!!
-                </li>
-                <li>
-                  27Sep. 2021: First publication from APP-Lab in PLasmonics gets
-                  accepted: Congratulations Sagar
-                </li>
-              </ul>
+              <div className="d-block w-60 m-auto">
+                <ul>
+                  <li></li>
+                  <li></li>
+                  <li>
+                    
+                    03 Dec 2021: Tejasva bagged placement in French Investment
+                    Bank Societe Generale as a software engineer(AI and data
+                    Science)... Congratulations and Well Done!!
+                  </li>
+                  <li>
+                    23-26 Nov. 2021: SKS organized "Workshop on Sensors" in
+                    collaboration with IIT Indore and Gauhati University.
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div className="carousel-item ">
+              <div className="d-block w-60 m-auto">
+                <ul>
+                  <li>
+                    15-19 Nov. 2021: SKS co-organized short term course on
+                    "Smart Materials: Processing and Applications" in
+                    coordination with NIT Srinagar (UK).
+                  </li>
+                  <li>
+                    09 Nov. 2021: Vivek's paper gets accepted in IEEE Photonics
+                    Technology Letters: Congratulations
+                  </li>
+                  <li>
+                    03 Nov. 2021: APP-Lab bags grant from DST-BDTD to work on
+                    REVAMPERS project.
+                  </li>
+
+                  <li>
+                    01 October 2021: Ojasvi Singh joins as a JRF in INdo-South
+                    Korea JNC project. Welcome!!
+                  </li>
+                  <li>
+                    27Sep. 2021: First publication from APP-Lab in PLasmonics
+                    gets accepted: Congratulations Sagar
+                  </li>
+                </ul>
               </div>
             </div>
             <div className="carousel-item ">
@@ -122,19 +153,16 @@ export default function Home(props) {
                     07 June 2021: Dr. Yadvendra Singh joins APP-Lab as a
                     postdoc. Welcome!!
                   </li>
-                
-                 
                 </ul>
               </div>
             </div>
             <div className="carousel-item">
               <div className="d-block w-60 m-auto">
                 <ul>
-                <li>
+                  <li>
                     15 Apr. 2021: Jhuma Pan joins APP-Lab as JRF. Welcome!!
                   </li>
-                <li>
-                    
+                  <li>
                     02 Apr. 2021: Vivek gets postdoctoral fellowship in DTU,
                     Denmark. We wish you all the best!!
                   </li>
@@ -155,14 +183,13 @@ export default function Home(props) {
                     Registration for Optical Sensors course on NPTEL is Open.
                     Registration Link
                   </li>
-                  
                 </ul>
               </div>
             </div>
             <div className="carousel-item">
               <div className="d-block w-60  m-auto">
                 <ul>
-                <li>
+                  <li>
                     26-27 Dec. 2020: SKS successfully co-organized OPTCT-2020, a
                     Workshop on Optics & Photonics: Theory & Computational
                     Techniques.
@@ -181,16 +208,13 @@ export default function Home(props) {
                     Sensors Project. - Welcome!!
                   </li>
                   <li>03 Nov. 2020: SKS wins SERB-Startup Research grant</li>
-                
-                  
                 </ul>
               </div>
             </div>
             <div className="carousel-item">
               <div className="d-block  w-60 m-auto">
                 <ul>
-               
-                <li>
+                  <li>
                     01 October 2020: Ravi Kiran Bandakavi joins App-Lab for
                     Nanophotonic Sensors Project. Welcome Ravi!!
                   </li>

@@ -49,6 +49,50 @@ export default function Gallery() {
                     Teachers' Day, 2021. Students arranged a surprise party in my office!! </p>
             </div>
         </div>
+
+        <div class="card-container">
+            <div class="img-container"><img src={require("..//images/gallery07.webp").default} alt=""/></div>
+            <div class="description">
+                <p>
+
+                Coffee sessions @ CCD  </p>
+            </div>
+        </div>
+
+        <div class="card-container">
+            <div class="img-container"><img src={require("..//images/appmember.webp").default} alt=""/></div>
+            <div class="description">
+                <p>
+
+                APP-Lab members know how to celebrate, be it small or big occasion.
+
+Coffee sessions @ CCD  </p>
+            </div>
+        </div>
+
+        <div class="card-container">
+            <div class="img-container"><img src={require("..//images/surprisebday.webp").default} alt=""/></div>
+            <div class="description">
+                <p>
+                Surprise party @My birthday- 2021</p>
+            </div>
+        </div>
+
+        <div class="card-container">
+            <div class="img-container"><img src={require("..//images/surprisebday2.webp").default} alt=""/></div>
+            <div class="description">
+                <p>
+                Surprise party @My birthday- 2021 </p>
+            </div>
+        </div>
+
+        <div class="card-container">
+            <div class="img-container"><img src={require("..//images/youngestgun.webp").default} alt=""/></div>
+            <div class="description">
+                <p>
+                Youngest gun of APP-Lab @ Lucknow Metro</p>
+            </div>
+        </div>
     </div>
 
     
