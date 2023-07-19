@@ -275,17 +275,7 @@ a{
   font-size: 1rem;
   margin: 1.0rem 4.0rem 0rem 2.0rem;
 }
-/* #carouselExampleIndicators-serf,
-.research-carousel,
-.research-carousel-item {
- 
-  width: 15.0rem;
-  height: 10.0rem;
-} */
-/* .width_25 .research-carousel .research-carousel-item img {
-  height: 10.0rem;
-  width: 15.0rem;
-} */
+
 .research-flex-space-between {
   display: flex;
   justify-content: space-around;
@@ -419,6 +409,8 @@ font-weight: bold;
 .card_w_title h1{
   margin: 1rem 0;
   text-align: center;
+  padding: 0.5rem;
+  /* background-color: #93291e; */
 
 }
 
@@ -461,6 +453,9 @@ font-weight: bold;
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
+}
+.jrf-title{
+  padding: 0.5rem;
 }
 /* team stylesheet ends here */
 

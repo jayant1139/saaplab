@@ -224,7 +224,7 @@ export default function Team() {
       </div>
       <div className="">
         <div className="d-flex flex-column align-items-center">
-          <h1 className="">JRF</h1>
+          <h1 className="jrf-title">JRF</h1>
           <div className="grp-item d-flex flex-column align-items-center">
             <img
               src={require("../images/team_pics/kgp.webp").default}
